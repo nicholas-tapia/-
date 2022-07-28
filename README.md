@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Crated for a tests in project 
+Created for a tests in project 
